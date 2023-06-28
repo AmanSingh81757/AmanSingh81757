@@ -3,7 +3,7 @@
 - 👀 Interests: Full Stack Web Development, Competitive Programming
 - 🌱 I’m currently learning React.
 - 📫 Connect with me on LikendIn : www.linkedin.com/in/aman-singh-1755a2227
-- 👨‍💻 Technologies: ***Python, C, C++, HTML, CSS, JavaScript, React***
+- 👨‍💻 Technologies: ***JavaScript, ReactJS, NodeJS, ExpressJS, MongoDB, Python, C, C++, HTML, CSS***
  
 ## CP Handles: 
 - Codeforces: https://codeforces.com/profile/amansingh81757
