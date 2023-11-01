@@ -11,7 +11,7 @@
 - Atcode: https://atcoder.jp/users/amansingh81757
 - Leetcode: https://leetcode.com/Aman_Singh_03/
 
-[![@amansingh81757's Holopin board](https://holopin.io/api/user/board?user=amansingh81757)](https://holopin.io/@amansingh81757)
+[![An image of @amansingh81757's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/amansingh81757)](https://holopin.io/@amansingh81757)
 
 <!---
 AmanSingh81757/AmanSingh81757 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
