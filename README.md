@@ -1,11 +1,11 @@
 ## About Me:
 - 👋 Hi, I’m Aman Singh
 - 👀 Interests: Full Stack Web Development, Competitive Programming
-- 🌱 I’m currently learning React.
+- 🌱 I’m currently learning NextJS.
 - 📫 Connect with me on LikendIn : www.linkedin.com/in/aman-singh-1755a2227
-- 👨‍💻 Technologies: ***JavaScript, ReactJS, NodeJS, ExpressJS, MongoDB, Python, C, C++, HTML, CSS***
+- 👨‍💻 Technologies: ***JavaScript, ReactJS, NodeJS, ExpressJS, MongoDB, NextJS, SQL, Python, C, C++, HTML, CSS***
  
-## CP Handles: 
+## Competitve Programming Handles: 
 - Codeforces: https://codeforces.com/profile/amansingh81757
 - Codechef: https://www.codechef.com/users/amansingh9_4
 - Atcode: https://atcoder.jp/users/amansingh81757
