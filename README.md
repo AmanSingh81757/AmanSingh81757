@@ -3,6 +3,7 @@
 - 👀 Interests: Full Stack Web Development, Competitive Programming
 - 🌱 I’m currently learning NextJS.
 - 📫 Connect with me on LikendIn : www.linkedin.com/in/aman-singh-1755a2227
+- 🐦 Connect with me on Twitter : www.x.com/AmanSin07584073
 - 👨‍💻 Technologies: ***JavaScript, ReactJS, NodeJS, ExpressJS, MongoDB, NextJS, SQL, Python, C, C++, HTML, CSS***
  
 ## Competitve Programming Handles: 
